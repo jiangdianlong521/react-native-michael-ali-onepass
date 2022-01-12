@@ -1,6 +1,6 @@
 {
-  "name": "react-native-ali-onepass",
-  "version": "2.1.0",
+  "name": "react-native-michael-ali-onepass",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yoonzm/react-native-ali-onepass.git"
+    "url": "git+https://github.com/jiangdianlong521/react-native-michael-ali-onepass.git"
   },
   "keywords": [
     "react-native",
